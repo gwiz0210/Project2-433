@@ -1,0 +1,11 @@
+# Submit server .submit file for
+#  Course CMSC433
+#  Project P3-Code: P3-Code
+
+courseName=CMSC433
+semester=201301
+projectNumber=P3-Code
+courseKey=476d9213ca5b61ca
+authentication.type=ldap
+baseURL=https://submit.cs.umd.edu:443
+submitURL=https://submit.cs.umd.edu:443/eclipse/SubmitProjectViaEclipse
